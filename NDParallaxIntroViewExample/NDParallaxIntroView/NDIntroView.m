@@ -24,7 +24,7 @@
     self = [super initWithFrame:frame];
     if(self) {
         self.onboardContentArray = data;
-        UIImageView *imageView = [[UIImageView alloc] initWithFrame:CGRectMake(0, 0, self.scrollView.frame.size.width * self.onboardContentArray.count, self.frame.size.height)];
+        UIImageView *imageView = [[UIImageView alloc] initWithFrame:CGRectMake(-50, 0, self.scrollView.frame.size.width * self.onboardContentArray.count, self.frame.size.height)];
         [imageView setImage:parallaxImage];
         imageView.contentMode = UIViewContentModeLeft;
         [self.parallaxBackgroundScrollView addSubview:imageView];
@@ -66,7 +66,7 @@
         _scrollView = [[UIScrollView alloc] initWithFrame:self.frame];
         _scrollView.delegate = self;
         _scrollView.pagingEnabled = YES;
-        _scrollView.contentSize = CGSizeMake(self.frame.size.width*4, self.scrollView.frame.size.height);
+        _scrollView.contentSize = CGSizeMake(self.frame.size.width * self.onboardContentArray.count, self.scrollView.frame.size.height);
         _scrollView.showsHorizontalScrollIndicator = NO;
         [_scrollView setContentOffset:CGPointMake(0, 0) animated:YES];
     }

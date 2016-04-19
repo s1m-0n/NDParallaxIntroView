@@ -39,7 +39,11 @@
 #pragma mark - NDIntroView methods
 
 -(void)startIntro {
-    NSArray *pageContentArray = @[@{kNDIntroPageTitle : @"Work-It-Out",
+    NSArray *pageContentArray = @[@{kNDIntroPageTitle : @"NDParallaxIntroView",
+                                    kNDIntroPageDescription : @"Now you can easily add your beautiful intro into your app with no hassle.",
+                                    kNDIntroPageImageName : @"parallax"
+                                    },
+                                  @{kNDIntroPageTitle : @"Work-It-Out",
                                     kNDIntroPageDescription : @"A great App to create your own personal workout and get instructed by your phone.",
                                     kNDIntroPageImageName : @"workitout"
                                     },
