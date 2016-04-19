@@ -57,7 +57,7 @@ Delegate method implementation is required
 
 Animated gif of NDParallaxIntroView
 
-![](https://github.com/s1m-0n/NDCollapsiveDatePicker/blob/master/demo1.gif "NDCollapsiveDateView")
+
 
 ## Author
 
