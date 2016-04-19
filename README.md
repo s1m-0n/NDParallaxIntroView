@@ -50,7 +50,7 @@ Delegate method implementation is required
 
 ## Screenshot
 
-Animated gif of NDParallaxIntroView comign soon ;)
+Animated gif of NDParallaxIntroView comming soon ;)
 
 
 
