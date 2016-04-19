@@ -17,6 +17,8 @@ Add delegate to protocol into your .h
 ``` objective-c
 #import "NDParallaxIntroView.h"
 
+@property (strong, nonatomic) NDParallaxIntroView *introView;
+
 @interface ViewController : UIViewController <NDParallaxIntroViewDelegate>
 ```
 Usage:
