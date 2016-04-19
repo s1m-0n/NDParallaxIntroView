@@ -50,7 +50,9 @@ Delegate method implementation is required
 
 ## Screenshot
 
-Animated gif of NDParallaxIntroView comming soon ;)
+Animated gif of NDParallaxIntroView is action
+
+![](https://github.com/s1m-0n/NDParallaxIntroView/blob/master/NDParallaxIntroViewExample/ndparallaxintroview.gif "NDCollapsiveDateView")
 
 
 
