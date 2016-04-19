@@ -22,7 +22,7 @@ self.introView = [[NDIntroView alloc] initWithFrame:self.view.frame parallaxImag
 self.introView.delegate = self;
 [self.view addSubview:self.introView];
 ```
-Important - You need to create the pageContentArray first which follows an easy structure (see example below):
+Important - You need to create the pageContentArray first which follows an easy structure (see example below). All values are optional so don't worry about the app crashing when you forget something ;)
 ``` objective-c
 NSArray *pageContentArray = @[@{kNDIntroPageTitle : @"Work-It-Out",
                                     kNDIntroPageDescription : @"A great App to create your own personal workout and get instructed by your phone.",
@@ -50,7 +50,7 @@ Delegate method implementation is required
 
 ## Screenshot
 
-Animated gif of NDParallaxIntroView
+Animated gif of NDParallaxIntroView comming soon ;)
 
 
 
