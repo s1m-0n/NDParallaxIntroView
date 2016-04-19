@@ -1,9 +1,6 @@
 # NDParallaxIntroView
 
-[![CI Status](http://img.shields.io/travis/Simon Wicha/NDParallaxIntroView.svg?style=flat)](https://travis-ci.org/Simon Wicha/NDParallaxIntroView)
-[![Version](https://img.shields.io/cocoapods/v/NDParallaxIntroView.svg?style=flat)](http://cocoadocs.org/docsets/NDParallaxIntroView)
-[![License](https://img.shields.io/cocoapods/l/NDParallaxIntroView.svg?style=flat)](http://cocoadocs.org/docsets/NDParallaxIntroView)
-[![Platform](https://img.shields.io/cocoapods/p/NDParallaxIntroView.svg?style=flat)](http://cocoadocs.org/docsets/NDParallaxIntroView)
+A very easy to use and beautiful parallax IntroView for your App to onboard user.
 
 ## Installation
 
