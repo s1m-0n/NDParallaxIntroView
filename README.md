@@ -9,8 +9,6 @@ Just copy the NDParallaxIntroView folder into your project. A cocoapod is planne
 ## Usage
 
 Create a strong property of NDParallaxIntroView in your class from which you want to trigger your intro.
-
-Add delegate to protocol into your .h
 ``` objective-c
 #import "NDParallaxIntroView.h"
 
