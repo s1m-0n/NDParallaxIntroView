@@ -4,7 +4,7 @@ A very easy to use and beautiful parallax IntroView for your App to onboard user
 
 ## Installation
 
-Just copy the NDParallaxIntroView folder into your project. A cocoapod is planned and will be available soon.
+Just copy the NDParallaxIntroView folder into your project. The pod version is available on https://github.com/s1m-0n/NDParallaxIntroView-Pod
 
 ## Usage
 
